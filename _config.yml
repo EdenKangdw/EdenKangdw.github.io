@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Eden Kang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am an **abundant** dev."
+  location         : "Seoul, Korea"
+  email            : "edenkang5517@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
